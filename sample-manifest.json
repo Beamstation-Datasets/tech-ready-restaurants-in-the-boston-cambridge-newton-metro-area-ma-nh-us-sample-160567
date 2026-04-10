@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b72ac5e0-946b-486f-9ac9-ca14883f97da",
+  "id_short": 160567,
+  "published_at": "2026-04-10T19:21:06Z",
+  "repo_name": "tech-ready-restaurants-in-the-boston-cambridge-newton-metro-area-ma-nh-us-sample-160567",
+  "sample_asset_name": "beamstation_160567_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/160567/beamstation_160567_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "0f99cdfacc6ec265a2309fc8359f20203fb3fc39a1fe5560b56f0efb6aca74ad",
+  "sample_size_bytes": 31663,
+  "total_records": 49
+}
