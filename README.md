@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Boston-Cambridge-Newton Metro Area, MA-NH, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `160567` |
 | Location | Boston-Cambridge-Newton, MA-NH |
 | Category | Restaurants |
-| Full dataset size | 49 records |
-| Free sample size | 4 records (8.16%) |
-| Last export | 2026-04-08T05:49:17.110224+00:00 |
+| Full dataset size | 32 records |
+| Free sample size | 3 records (9.38%) |
+| Last export | 2026-04-15T09:47:22.603486+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-boston-cambridge-newton-metro-area-ma-nh-us-sample-160567/releases/download/sample-latest/beamstation_160567_restaurants-us-bostoncambridgenewtonmanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
